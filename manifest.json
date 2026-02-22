@@ -1,8 +1,8 @@
 {
-  "version": "2.2.9",
+  "version": "2.2.10",
   "files": {
-    "Rules/default-rules.json": null,
-    "TerminalGuardian.psd1": null,
-    "TerminalGuardian.psm1": null
+    "Rules/default-rules.json": "4F6FF72D5F4C98ACFA8FBF7D1DDFDEDE43ED3059EF0C86BEA02F9B50ECD3C8BD",
+    "TerminalGuardian.psd1": "38D103C76C9789EEA9F074C09CC69CFD54CA22096DD58CE1EA474440B2565ABE",
+    "TerminalGuardian.psm1": "E64E97DDB11713A8B591A8C3E9752D1D8018A111D3C70C936F535A04E3E5DBA2"
   }
 }
