@@ -1,8 +1,11 @@
-# TerminalGuardian Integrity Manifest Repo
+# Terminal Guardian Integrity Manifest
 
-This repository stores the cloud integrity manifest for Terminal Guardian.
+This repository publishes the public integrity manifest for Terminal Guardian download verification.
 
-- Product source repository: https://github.com/meanrobotics-dev/TerminalGuardian
-- Website source location (in product repo): `site/index.html`
+- Official product site: https://terminalguardian.com
+- Company site: https://meanrobotics.com
+- Manifest file: `manifest.json`
 
-`manifest.json` is the canonical data file used for integrity distribution.
+`manifest.json` is the canonical public data file used for integrity distribution.
+
+No product source code is distributed from this repository.
